@@ -1,0 +1,14 @@
+{
+  "name": "toolchain-sdk-ng",
+  "version": "1.0",
+  "description": "The Zephyr Software Development Kit (SDK) includes the toolchains for all supported target architectures as well as the host tools, such as QEMU and OpenOCD, for testing and debugging the Zephyr RTOS.",
+  "keywords": [
+    "toolchain"
+  ],
+  "homepage": "https://www.zephyrproject.org",
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zephyrproject-rtos/sdk-ng"
+  }
+}
